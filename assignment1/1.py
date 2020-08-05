@@ -1,4 +1,3 @@
-In [2]:
 year=int(input())
 if year%12==0:
   print("monkey")
@@ -24,5 +23,3 @@ elif year%12==10:
   print("horse")  
 else:
   print("sheep")
-2
-Dog
